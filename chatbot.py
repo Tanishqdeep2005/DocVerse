@@ -105,7 +105,7 @@ with st.sidebar:
                 
     🔗 [GitHub](https://github.com/Tanishqdeep2005)  
                 
-    🚀 [Repo Link](placeholder) 
+    🚀 [Repo Link](https://github.com/Tanishqdeep2005/DocVerse/) 
                 
     💼 [LinkedIn](https://www.linkedin.com/in/tanishqdeep/)
     """)
