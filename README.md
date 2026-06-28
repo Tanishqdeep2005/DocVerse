@@ -56,6 +56,8 @@ Docverse/
 ```
 
 ---
+Run the Deployed version: https://docverse.streamlit.app/
+---
 
 ##  Installation
 
