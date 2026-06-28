@@ -161,15 +161,15 @@ Answer Generation
 
 ### Home Screen
 
-```markdown
+
 ![Home Screen](screenshots/1.png)
-```
+
 
 ### Chat Interface
 
-```markdown
+
 ![Chat Interface](screenshots/2.png)
-```
+
 
 ---
 
