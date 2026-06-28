@@ -187,10 +187,10 @@ Answer Generation
 
 ##  Author
 
-**Tanishq **
+** Tanishq **
 
-* GitHub: [https://github.com/yourusername](https://github.com/Tanishqdeep2005)
-* LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/tanishqdeep/)
+* [GitHub](https://github.com/Tanishqdeep2005)
+* [LinkedIn](https://www.linkedin.com/in/tanishqdeep/)
 
 ---
 
