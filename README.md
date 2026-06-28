@@ -62,7 +62,7 @@ Docverse/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/docverse.git
+git clone https://github.com/Tanishqdeep2005/DocVerse
 cd docverse
 ```
 
