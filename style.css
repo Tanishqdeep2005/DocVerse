@@ -1,0 +1,161 @@
+
+/* ===================================================== */
+/* GLOBAL APP STYLING */
+/* ===================================================== */
+
+.stApp {
+    background: linear-gradient(
+        135deg,
+        #0B0F19 0%,
+        #111827 100%
+    );
+    color: white;
+}
+
+
+/* ===================================================== */
+/* SIDEBAR */
+/* ===================================================== */
+
+section[data-testid="stSidebar"] {
+    background-color: #111827;
+    border-right: 1px solid #2D3748;
+    width: 340px !important;
+}
+
+[data-testid="stSidebar"] h1,
+[data-testid="stSidebar"] h2,
+[data-testid="stSidebar"] h3 {
+    color: white;
+}
+
+
+/* ===================================================== */
+/* BUTTONS */
+/* ===================================================== */
+
+.stButton > button {
+    width: 100%;
+    background: linear-gradient(
+        90deg,
+        #10A37F,
+        #0d8c6d
+    );
+    color: white;
+    border: none;
+    border-radius: 12px;
+    padding: 0.75rem;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.stButton > button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0px 8px 25px rgba(16,163,127,0.35);
+}
+
+
+/* ===================================================== */
+/* FILE UPLOADER */
+/* ===================================================== */
+
+[data-testid="stFileUploader"] {
+    background-color: #161B22;
+    border: 1px solid #2D3748;
+    border-radius: 16px;
+    padding: 20px;
+}
+
+
+/* ===================================================== */
+/* CHAT INPUT */
+/* ===================================================== */
+
+[data-testid="stChatInput"] {
+    background-color: #161B22;
+    border-radius: 16px;
+}
+
+
+/* ===================================================== */
+/* CHAT MESSAGES */
+/* ===================================================== */
+
+[data-testid="stChatMessage"] {
+    background-color: #1A1D24;
+    border: 1px solid #2D3748;
+    border-radius: 18px;
+    padding: 18px;
+    margin-bottom: 12px;
+}
+
+
+/* ===================================================== */
+/* HEADINGS */
+/* ===================================================== */
+
+h1 {
+    color: white;
+    font-size: 3.5rem !important;
+    font-weight: 800 !important;
+}
+
+h2, h3 {
+    color: #10A37F;
+}
+
+
+/* ===================================================== */
+/* INFO / SUCCESS BOXES */
+/* ===================================================== */
+
+[data-testid="stAlert"] {
+    border-radius: 14px;
+}
+
+
+/* ===================================================== */
+/* SCROLLBAR */
+/* ===================================================== */
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #111827;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #10A37F;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #0d8c6d;
+}
+
+
+/* ===================================================== */
+/* HIDE STREAMLIT BRANDING */
+/* ===================================================== */
+
+#MainMenu {
+    visibility: hidden;
+}
+
+footer {
+    visibility: hidden;
+}
+
+
+
+
+/* ===================================================== */
+/* REMOVE EXTRA TOP PADDING */
+/* ===================================================== */
+
+.block-container {
+    padding-top: 2rem;
+}
+
