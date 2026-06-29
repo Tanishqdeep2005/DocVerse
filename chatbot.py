@@ -101,7 +101,7 @@ with st.sidebar:
 
     Developed by **Tanishq**
 
-    📧 [Email](tanishqdeep2005@gmail.com)
+    📧 tanishqdeep2005@gmail.com
                 
     🔗 [GitHub](https://github.com/Tanishqdeep2005)  
                 
