@@ -184,9 +184,9 @@ if uploaded_file is not None:
     )
 
     llm = ChatGroq(
-    model="llama-3.3-70b-versatile",
+    model="llama-3.1-8b-instant",
     temperature=1
-    )
+)
     
     prompt = ChatPromptTemplate.from_template("""
     You are Docverse, an AI document assistant.
