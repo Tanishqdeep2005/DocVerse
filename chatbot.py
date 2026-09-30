@@ -184,8 +184,8 @@ if uploaded_file is not None:
     )
 
     llm = ChatGroq(
-    model="openai/gpt-oss-120b",
-    temperature=1
+    model="llama-4-scout-17b-16e-instruct",
+    temperature=0
     )
     
     prompt = ChatPromptTemplate.from_template("""
