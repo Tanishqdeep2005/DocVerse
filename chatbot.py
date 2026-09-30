@@ -200,6 +200,7 @@ if uploaded_file is not None:
     - Use headings only when necessary.
     - Keep answers concise and readable.
     - Never return text as one paragraph.
+    - Read the chunks well
 
 
     <context>
