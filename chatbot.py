@@ -180,7 +180,7 @@ if uploaded_file is not None:
 
     # Create retriever
     retriever = vectordb.as_retriever(
-        search_kwargs={"k": 4}
+    search_kwargs={"k": 8}
     )
 
     llm = ChatGroq(
